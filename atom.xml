@@ -6,7 +6,7 @@
   <link href="http://lyxilsf.github.io/atom.xml" rel="self"/>
   
   <link href="http://lyxilsf.github.io/"/>
-  <updated>2020-09-24T16:43:31.268Z</updated>
+  <updated>2020-09-24T14:53:59.565Z</updated>
   <id>http://lyxilsf.github.io/</id>
   
   <author>
@@ -15,33 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>偶像运动季拍摄花絮</title>
-    <link href="http://lyxilsf.github.io/2020/09/25/%E5%81%B6%E5%83%8F%E8%BF%90%E5%8A%A8%E5%AD%A3%E6%8B%8D%E6%91%84%E8%8A%B1%E7%B5%AE/"/>
-    <id>http://lyxilsf.github.io/2020/09/25/%E5%81%B6%E5%83%8F%E8%BF%90%E5%8A%A8%E5%AD%A3%E6%8B%8D%E6%91%84%E8%8A%B1%E7%B5%AE/</id>
-    <published>2020-09-24T16:43:31.268Z</published>
-    <updated>2020-09-24T16:43:31.268Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\lyxilsf.github.io\assets\css\APlayer.min.css&quot;&gt;&lt;script</summary>
-        
-      
-    
-    
-    
-    <category term="视频" scheme="http://lyxilsf.github.io/categories/%E8%A7%86%E9%A2%91/"/>
-    
-    <category term="就熙欢花絮" scheme="http://lyxilsf.github.io/categories/%E8%A7%86%E9%A2%91/%E5%B0%B1%E7%86%99%E6%AC%A2%E8%8A%B1%E7%B5%AE/"/>
-    
-    
-    <category term="就熙欢花絮" scheme="http://lyxilsf.github.io/tags/%E5%B0%B1%E7%86%99%E6%AC%A2%E8%8A%B1%E7%B5%AE/"/>
-    
-  </entry>
   
   <entry>
     <title>白色小福蝶花絮</title>
@@ -129,6 +102,64 @@
   </entry>
   
   <entry>
+    <title>小资CHICTEEN</title>
+    <link href="http://lyxilsf.github.io/2020/07/17/%E5%B0%8F%E8%B5%84CHICTEEN/"/>
+    <id>http://lyxilsf.github.io/2020/07/17/%E5%B0%8F%E8%B5%84CHICTEEN/</id>
+    <published>2020-07-17T07:32:26.000Z</published>
+    <updated>2020-09-25T03:50:28.014Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\lyxilsf.github.io\assets\css\APlayer.min.css&quot;&gt;&lt;script</summary>
+        
+      
+    
+    
+    
+    <category term="视频" scheme="http://lyxilsf.github.io/categories/%E8%A7%86%E9%A2%91/"/>
+    
+    <category term="就熙欢花絮" scheme="http://lyxilsf.github.io/categories/%E8%A7%86%E9%A2%91/%E5%B0%B1%E7%86%99%E6%AC%A2%E8%8A%B1%E7%B5%AE/"/>
+    
+    
+    <category term="就熙欢花絮" scheme="http://lyxilsf.github.io/tags/%E5%B0%B1%E7%86%99%E6%AC%A2%E8%8A%B1%E7%B5%AE/"/>
+    
+    <category term="杂志" scheme="http://lyxilsf.github.io/tags/%E6%9D%82%E5%BF%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>HANDSOME俊仕</title>
+    <link href="http://lyxilsf.github.io/2020/03/26/HANDSOME%E4%BF%8A%E4%BB%95/"/>
+    <id>http://lyxilsf.github.io/2020/03/26/HANDSOME%E4%BF%8A%E4%BB%95/</id>
+    <published>2020-03-26T07:32:26.000Z</published>
+    <updated>2020-09-25T03:55:20.057Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\lyxilsf.github.io\assets\css\APlayer.min.css&quot;&gt;&lt;script</summary>
+        
+      
+    
+    
+    
+    <category term="视频" scheme="http://lyxilsf.github.io/categories/%E8%A7%86%E9%A2%91/"/>
+    
+    <category term="就熙欢花絮" scheme="http://lyxilsf.github.io/categories/%E8%A7%86%E9%A2%91/%E5%B0%B1%E7%86%99%E6%AC%A2%E8%8A%B1%E7%B5%AE/"/>
+    
+    
+    <category term="就熙欢花絮" scheme="http://lyxilsf.github.io/tags/%E5%B0%B1%E7%86%99%E6%AC%A2%E8%8A%B1%E7%B5%AE/"/>
+    
+    <category term="杂志" scheme="http://lyxilsf.github.io/tags/%E6%9D%82%E5%BF%97/"/>
+    
+  </entry>
+  
+  <entry>
     <title>2000W粉丝福利</title>
     <link href="http://lyxilsf.github.io/2020/02/14/%E4%B8%A4%E5%8D%83%E4%B8%87%E7%B2%89%E4%B8%9D%E7%A6%8F%E5%88%A9/"/>
     <id>http://lyxilsf.github.io/2020/02/14/%E4%B8%A4%E5%8D%83%E4%B8%87%E7%B2%89%E4%B8%9D%E7%A6%8F%E5%88%A9/</id>
@@ -161,6 +192,62 @@
     <id>http://lyxilsf.github.io/2019/11/13/%E6%98%95%E8%96%87/</id>
     <published>2019-11-13T07:32:26.000Z</published>
     <updated>2020-09-24T16:13:16.043Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\lyxilsf.github.io\assets\css\APlayer.min.css&quot;&gt;&lt;script</summary>
+        
+      
+    
+    
+    
+    <category term="视频" scheme="http://lyxilsf.github.io/categories/%E8%A7%86%E9%A2%91/"/>
+    
+    <category term="就熙欢花絮" scheme="http://lyxilsf.github.io/categories/%E8%A7%86%E9%A2%91/%E5%B0%B1%E7%86%99%E6%AC%A2%E8%8A%B1%E7%B5%AE/"/>
+    
+    
+    <category term="就熙欢花絮" scheme="http://lyxilsf.github.io/tags/%E5%B0%B1%E7%86%99%E6%AC%A2%E8%8A%B1%E7%B5%AE/"/>
+    
+    <category term="杂志" scheme="http://lyxilsf.github.io/tags/%E6%9D%82%E5%BF%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>等风停</title>
+    <link href="http://lyxilsf.github.io/2019/08/09/%E7%AD%89%E9%A3%8E%E5%81%9C/"/>
+    <id>http://lyxilsf.github.io/2019/08/09/%E7%AD%89%E9%A3%8E%E5%81%9C/</id>
+    <published>2019-08-09T07:32:26.000Z</published>
+    <updated>2020-09-25T03:37:02.773Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\lyxilsf.github.io\assets\css\APlayer.min.css&quot;&gt;&lt;script</summary>
+        
+      
+    
+    
+    
+    <category term="视频" scheme="http://lyxilsf.github.io/categories/%E8%A7%86%E9%A2%91/"/>
+    
+    <category term="mv" scheme="http://lyxilsf.github.io/categories/%E8%A7%86%E9%A2%91/mv/"/>
+    
+    
+    <category term="mv" scheme="http://lyxilsf.github.io/tags/mv/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>时尚cosmo</title>
+    <link href="http://lyxilsf.github.io/2019/06/09/cosmo/"/>
+    <id>http://lyxilsf.github.io/2019/06/09/cosmo/</id>
+    <published>2019-06-09T07:32:26.000Z</published>
+    <updated>2020-09-25T03:52:20.509Z</updated>
     
     
       
@@ -262,6 +349,33 @@
     
     
     <category term="vlog" scheme="http://lyxilsf.github.io/tags/vlog/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>偶像运动季拍摄花絮</title>
+    <link href="http://lyxilsf.github.io/2018/11/09/%E5%81%B6%E5%83%8F%E8%BF%90%E5%8A%A8%E5%AD%A3%E6%8B%8D%E6%91%84%E8%8A%B1%E7%B5%AE/"/>
+    <id>http://lyxilsf.github.io/2018/11/09/%E5%81%B6%E5%83%8F%E8%BF%90%E5%8A%A8%E5%AD%A3%E6%8B%8D%E6%91%84%E8%8A%B1%E7%B5%AE/</id>
+    <published>2018-11-09T07:32:26.000Z</published>
+    <updated>2020-09-25T01:40:08.742Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\lyxilsf.github.io\assets\css\APlayer.min.css&quot;&gt;&lt;script</summary>
+        
+      
+    
+    
+    
+    <category term="视频" scheme="http://lyxilsf.github.io/categories/%E8%A7%86%E9%A2%91/"/>
+    
+    <category term="就熙欢花絮" scheme="http://lyxilsf.github.io/categories/%E8%A7%86%E9%A2%91/%E5%B0%B1%E7%86%99%E6%AC%A2%E8%8A%B1%E7%B5%AE/"/>
+    
+    
+    <category term="就熙欢花絮" scheme="http://lyxilsf.github.io/tags/%E5%B0%B1%E7%86%99%E6%AC%A2%E8%8A%B1%E7%B5%AE/"/>
     
   </entry>
   
